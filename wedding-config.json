@@ -1,0 +1,125 @@
+{
+  "couple": {
+    "bride": {
+      "firstName": "Priya",
+      "lastName": "Sharma",
+      "fullName": "Priya Sharma"
+    },
+    "groom": {
+      "firstName": "Rahul",
+      "lastName": "Verma",
+      "fullName": "Rahul Verma"
+    }
+  },
+  "weddingDate": "2025-12-15T10:00:00",
+  "venue": {
+    "name": "Grand Palace Hotel",
+    "address": "123 Wedding Avenue, Mumbai, Maharashtra 400001",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+Hotel+Mumbai",
+    "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.7329316468485!2d72.8258!3d19.0760!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTnCsDA0JzMzLjYiTiA3MsKwNDknMzIuOSJF!5e0!3m2!1sen!2sin!4v1234567890"
+  },
+  "events": [
+    {
+      "id": "engagement",
+      "name": "Engagement Ceremony",
+      "date": "2025-12-13",
+      "time": "18:00",
+      "description": "Join us for the beautiful engagement ceremony",
+      "location": "Grand Palace Hotel, Mumbai",
+      "dressCode": "Ethnic Wear",
+      "icon": "ring"
+    },
+    {
+      "id": "mehendi",
+      "name": "Mehendi Ceremony",
+      "date": "2025-12-14",
+      "time": "14:00",
+      "description": "Colorful mehendi celebration with music and dance",
+      "location": "Grand Palace Hotel, Mumbai",
+      "dressCode": "Yellow/Green",
+      "icon": "palette"
+    },
+    {
+      "id": "haldi",
+      "name": "Haldi Ceremony",
+      "date": "2025-12-14",
+      "time": "10:00",
+      "description": "Traditional haldi ceremony",
+      "location": "Bride's Residence, Mumbai",
+      "dressCode": "Yellow",
+      "icon": "sun"
+    },
+    {
+      "id": "sangeet",
+      "name": "Sangeet Night",
+      "date": "2025-12-14",
+      "time": "19:00",
+      "description": "A night of music, dance, and celebrations",
+      "location": "Grand Palace Hotel, Mumbai",
+      "dressCode": "Glamorous Ethnic",
+      "icon": "music"
+    },
+    {
+      "id": "wedding",
+      "name": "Wedding Ceremony",
+      "date": "2025-12-15",
+      "time": "10:00",
+      "description": "The sacred wedding ceremony",
+      "location": "Grand Palace Hotel, Mumbai",
+      "dressCode": "Traditional Indian",
+      "icon": "heart"
+    },
+    {
+      "id": "reception",
+      "name": "Reception",
+      "date": "2025-12-15",
+      "time": "19:00",
+      "description": "Grand reception dinner",
+      "location": "Grand Palace Hotel, Mumbai",
+      "dressCode": "Formal/Party Wear",
+      "icon": "champagne"
+    }
+  ],
+  "family": {
+    "brideParents": {
+      "father": "Mr. Rajesh Sharma",
+      "mother": "Mrs. Sunita Sharma"
+    },
+    "groomParents": {
+      "father": "Mr. Vijay Verma",
+      "mother": "Mrs. Anita Verma"
+    },
+    "grandparents": {
+      "paternal": "Late Mr. & Mrs. Om Prakash Sharma",
+      "maternal": "Late Mr. & Mrs. Hari Mohan Sharma"
+    }
+  },
+  "contact": {
+    "phone": "+91 98765 43210",
+    "whatsapp": "+91 98765 43210",
+    "email": "priya.rahul.wedding@gmail.com"
+  },
+  "theme": {
+    "primaryColor": "gold",
+    "secondaryColor": "blush",
+    "backgroundColor": "cream",
+    "enableMusic": true,
+    "musicUrl": "/music/wedding-music.mp3"
+  },
+  "gallery": {
+    "enabled": true,
+    "images": [
+      "/images/couple-1.jpg",
+      "/images/couple-2.jpg",
+      "/images/couple-3.jpg",
+      "/images/couple-4.jpg",
+      "/images/couple-5.jpg",
+      "/images/couple-6.jpg"
+    ]
+  },
+  "rsvp": {
+    "enabled": true,
+    "deadline": "2025-11-30",
+    "email": "priya.rahul.wedding@gmail.com"
+  }
+}
